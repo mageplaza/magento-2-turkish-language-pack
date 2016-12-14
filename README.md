@@ -1,11 +1,37 @@
-# Magento 2 Turkish Language Pack
+## Magento 2 Turkish Language Pack
+
+This is FREE **Magento 2 Turkish Language Pack** directory by Mageplaza team. The topic is based on Magento 2 Translation Project from Crowdin with the contributed transalation data. Especially, right on this post, Mageplaza give you the available link including "Download .zip" and "Contribute" button, you will be directd to the correct site quickly without wasting time seeking.
+
+In addition, Mageplaza also brings you the in-depth directions to install this package successfully. The whole guides will be shown as clearly as possible, that is easy for you to follow. Please pay attention at all to turn your site performance into Turkish.
 
 Read more [Magento 2 Turkish Language Pack](https://www.mageplaza.com/magento-2-turkish-language-pack.html)
 
-## How to Install
+
+## Overview
+
+- Download & Contribute
+- Install Turkish Language Pack
+- How to Install Turkish Language Pack
+
+## Download & Contribute to Turkish Language Pack
+
+Below are two active buttons which are required operations before installing the language package. Let's hit them to download and contribute Magento 2 Turkish Language Pack immediately!
+
+**Download packages**:
+
+- [Download .zip](https://github.com/mageplaza/magento-2-turkish-language-pack/archive/master.zip)
+- [Download .tar.gz](https://github.com/mageplaza/magento-2-turkish-language-pack/tarball/master)
+- [Copy & paste package](https://crowdin.com/project/magento-2/tr.zip)
 
 
-### via Composer
+Find other [language packs here]({https://www.mageplaza.com/kb/magento-2-language-pack/)
+
+## How to Install Turkish Language Pack
+
+There are 3 different methods to install this language pack.
+
+### #1. Composer method
+Install the Turkish language pack via composer is never easier.
 
 **Install Turkish pack**:
 
@@ -17,4 +43,97 @@ php bin/magento setup:static-content:deploy tr-tr
 ```
 
 
-Ref: https://www.mageplaza.com/magento-2-turkish-language-pack.html
+**Update  Turkish pack**:
+
+```
+composer update mageplaza/magento-2-turkish-language-pack:*
+php bin/magento cache:clean
+php bin/magento setup:static-content:deploy tr-tr
+
+```
+
+### #2. Copy & Paste method
+
+This method suitable for non-technical people such as merchants. Just download the package then flush cache.
+
+**Overview**
+
+- Step 1: Download the Turkish language pack
+- Step 2: Unzip Turkish pack
+- Step 3: Flush Magento 2 Cache
+
+#### Step 1 : Download the Turkish language pack
+
+You can download the language pack from above link
+
+#### Step 2: Unzip Turkish pack
+
+Unzip the Turkish language pack to Magento 2 root folder. In this guide, we extract to `/var/www/html/`
+Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html/`
+
+```
+unzip fr.zip /var/www/html/
+```
+
+You also can unzip locally and upload them to Magento 2 root folder.
+
+#### Step 3: Flush Magento 2 Cache
+
+Follow this guide to [Flush Cache on your Magento 2 store](https://www.mageplaza.com/kb/how-flush-enable-disable-cache.html)
+
+
+### #3. Download and install manually
+
+To download and install Turkish pack manually, you have to access to your server via FTP or SFTP.
+
+#### Step 1: Download the package
+
+- [Download .zip](https://github.com/mageplaza/magento-2-turkish-language-pack/archive/master.zip)
+- [Download .tar.gz](https://github.com/mageplaza/magento-2-turkish-language-pack/tarball/master)
+
+#### Step 1: Unzip and upload
+
+Unzip the compressed file and upload file `tr_TR.zip` into `app/i18n/mageplaza/tr_TR/tr_TR.csv`
+
+#### Step 2: Flush cache
+
+Follow this guide to [Flush Cache on your Magento 2 store](https://www.mageplaza.com/kb/how-flush-enable-disable-cache.html)
+
+
+## How to active language pack
+
+Now time to active the language pack for your Magento 2 store. From Magento 2 admin panel, navigate to `Stores > Configuration > General > Locale Options`
+![{{Magento 2 Turkish language pack}}](https://i.imgur.com/aPSUA0l.png)
+
+
+## Translation process of Turkish Language Pack
+![process](http://progressed.io/bar/80)
+
+Contribute to this language at https://crowdin.com/project/magento-2/tr
+
+## Supported Magento versions
+
+- Magento v2.0.0
+- Magento v2.0.1
+- Magento v2.0.2
+- Magento v2.0.3
+- Magento v2.0.4
+- Magento v2.0.5
+- Magento v2.0.6
+- Magento v2.0.7
+- Magento v2.0.8
+- Magento v2.1.0
+- Magento v2.1.1
+- Magento v2.1.2
+
+
+
+## Language package authors
+
+- [Magento official translations project for Magento 2](https://crowdin.com/project/magento-2)
+- Language packages built by [Mageplaza team](https://www.mageplaza.com/)
+
+
+References:
+- https://www.mageplaza.com/magento-2-turkish-language-pack.html
+- https://www.mageplaza.com/kb/magento-2-language-pack/
