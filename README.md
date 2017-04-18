@@ -39,6 +39,9 @@ Install the Turkish language pack via composer is never easier.
 composer require mageplaza/magento-2-turkish-language-pack:dev-master
 php bin/magento cache:clean
 php bin/magento setup:static-content:deploy tr_TR
+php bin/magento indexer:reindex
+php bin/magento cache:clean
+php bin/magento cache:flush
 
 ```
 
@@ -49,6 +52,9 @@ php bin/magento setup:static-content:deploy tr_TR
 composer update mageplaza/magento-2-turkish-language-pack:dev-master
 php bin/magento cache:clean
 php bin/magento setup:static-content:deploy tr_TR
+php bin/magento indexer:reindex
+php bin/magento cache:clean
+php bin/magento cache:flush
 
 ```
 
