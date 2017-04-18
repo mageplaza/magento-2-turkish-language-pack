@@ -6611,7 +6611,7 @@ Options,Seçenekler,module,Magento_Multishipping
 "Successful Messages Lifetime","Successful Messages Lifetime",module,Magento_MysqlMq
 "Failed Messages Lifetime","Failed Messages Lifetime",module,Magento_MysqlMq
 "New Messages Lifetime","New Messages Lifetime",module,Magento_MysqlMq
-"No New Relic Application ID configured, cannot continue with Cron Event reporting","No New Relic Application ID configured, cannot continue with Cron Event reporting",module,Magento_NewRelicReporting
+"No New Relic Application ID configured, cannot continue with Cron Event reporting","New Relic Uygulama Kimliği yapılandırılmamış, Cron Olay raporlama ile devam edemiyor",module,Magento_NewRelicReporting
 "The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
                         information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
                         information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.",module,Magento_NewRelicReporting
@@ -7687,7 +7687,7 @@ Delete,Sil,module,Magento_ProductVideo
 "Auto restart video","Auto restart video",module,Magento_ProductVideo
 "Images And Videos","Images And Videos",module,Magento_ProductVideo
 "Images And Videos","Images And Videos",module,Magento_ProductVideoStaging
-"Edit Catalog Price Rules","Edit Catalog Price Rules",module,Magento_PromotionPermissions
+"Edit Catalog Price Rules","Katalog Fiyat Kurallarını Düzenleme",module,Magento_PromotionPermissions
 "Edit Cart Price Rules","Edit Cart Price Rules",module,Magento_PromotionPermissions
 "Edit Automated Email Reminder Rules","Edit Automated Email Reminder Rules",module,Magento_PromotionPermissions
 "Unable to save address. Please check input data.","Adres kaydedilemedi. Giriş verilerini gözden geçirin.",module,Magento_Quote
@@ -7751,7 +7751,7 @@ error345,error345,module,Magento_Quote
 "Incorrect amount","Incorrect amount",module,Magento_Quote
 Carts,Sepetler,module,Magento_Quote
 "Manage carts","Manage carts",module,Magento_Quote
-"This rule is assigned to %1 automated reminder rule(s). Deleting this rule will automatically unassign it.","This rule is assigned to %1 automated reminder rule(s). Deleting this rule will automatically unassign it.",module,Magento_Reminder
+"This rule is assigned to %1 automated reminder rule(s). Deleting this rule will automatically unassign it.","Bu kural %1 otomatik hatırlatma kural(lar)ına atanır. Bu kuralı silmek otomatik olarak atamasını da kaldırackatır.",module,Magento_Reminder
 "Automated Email Marketing Reminder Rules","Automated Email Marketing Reminder Rules",module,Magento_Reminder
 "Add New Rule","Yeni Kural Ekle",module,Magento_Reminder
 "Are you sure you want to match this rule now?","Are you sure you want to match this rule now?",module,Magento_Reminder
@@ -9913,7 +9913,7 @@ Labels,Etiketler,module,Magento_SalesRuleStaging
 "End Time","End Time",module,Magento_SalesRuleStaging
 "Cart Price Rules","Sepet fiyat kuralları",module,Magento_SalesRuleStaging
 "Remove Cart Price Rule from Campaign","Remove Cart Price Rule from Campaign",module,Magento_SalesRuleStaging
-"Entity Sequence profile not added to meta active profile","Entity Sequence profile not added to meta active profile",module,Magento_SalesSequence
+"Entity Sequence profile not added to meta active profile","Varlık Sırası profili meta etkin profiline eklenmez",module,Magento_SalesSequence
 "Not enough arguments","Not enough arguments",module,Magento_SalesSequence
 "Fatal Error","Ölümcül hata",module,Magento_ScalableCheckout
 "Advanced Inventory","Gelişmiş Envanter",module,Magento_ScalableInventory
@@ -10904,7 +10904,7 @@ Image,Resim,module,Magento_Swatches
 "Image Position","Image Position",module,Magento_Swatches
 "Default Store View","Default Store View",module,Magento_Swatches
 Admin,Admin,module,Magento_Swatches
-"Related Products Rule","Related Products Rule",module,Magento_TargetRule
+"Related Products Rule","İlgili Ürünler Kuralı",module,Magento_TargetRule
 "Add Rule","Add Rule",module,Magento_TargetRule
 "Save and Continue Edit","Kaydet ve Devam Et",module,Magento_TargetRule
 "Edit Rule '%1'","Edit Rule '%1'",module,Magento_TargetRule
