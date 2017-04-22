@@ -2726,6 +2726,7 @@ Payment,Payment,module,Magento_Checkout
 "Not yet calculated","Not yet calculated",module,Magento_Checkout
 "We received your order!","Siparişinizi aldık!",module,Magento_Checkout
 "Thank you for your purchase!","Siparişiniz için teşekkür ederiz !",module,Magento_Checkout
+"Go to Checkout","Satın Al",module,Magento_Checkout
 "Terms and Conditions","Şartlar ve Koşullar",module,Magento_CheckoutAgreements
 "Add New Condition","Yeni Koşul Ekle",module,Magento_CheckoutAgreements
 "Save Condition","Koşulu Kaydet",module,Magento_CheckoutAgreements
