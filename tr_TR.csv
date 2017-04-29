@@ -2727,6 +2727,9 @@ Payment,Payment,module,Magento_Checkout
 "We received your order!","Siparişinizi aldık!",module,Magento_Checkout
 "Thank you for your purchase!","Siparişiniz için teşekkür ederiz !",module,Magento_Checkout
 "Go to Checkout","Satın Al",module,Magento_Checkout
+"View and edit cart","Sepeti görüntüleyin ve düzenleyin",module,Magento_Checkout
+"Item in Cart","Sepetteki Ürünler",module,Magento_Checkout
+"Items in Cart","Sepetteki Ürünler",module,Magento_Checkout
 "Terms and Conditions","Şartlar ve Koşullar",module,Magento_CheckoutAgreements
 "Add New Condition","Yeni Koşul Ekle",module,Magento_CheckoutAgreements
 "Save Condition","Koşulu Kaydet",module,Magento_CheckoutAgreements
@@ -6310,6 +6313,7 @@ Partners,Ortaklar,module,Magento_Marketplace
 "Read More","Devamını oku",module,Magento_Marketplace
 "Partner Page","Partner Page",module,Magento_Marketplace
 "No partners were found","No partners were found",module,Magento_Marketplace
+"Find Partners & Extensions","Find Partners & Extensions",module,Magento_Marketplace
 Synchronize,Eşitleme,module,Magento_MediaStorage
 "Synchronizing %1 to %2","Synchronizing %1 to %2",module,Magento_MediaStorage
 Synchronizing...,Eşitleniyor...,module,Magento_MediaStorage
