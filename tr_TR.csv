@@ -236,35 +236,35 @@ Edit,Düzenle,module,Magento_AdvancedSearch
 "RPC call failed, connection timed out after %time_out.","RPC çağrısı başarısız oldu, bağlantı %time_out sonra zaman aşımına uğradı.",module,Magento_Amqp
 "Message has been rejected: %1","İleti reddedildi: %1",module,Magento_Amqp
 "Error while checking if topic is synchronous","Konu zaman uyumlu ise kontrol hatası",module,Magento_Amqp
-"Subscription status","Subscription status",module,Magento_Analytics
-"Sorry, there has been an error processing your request. Please try again later.","Sorry, there has been an error processing your request. Please try again later.",module,Magento_Analytics
-"Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.","Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.",module,Magento_Analytics
+"Subscription status","Abonelik durumu",module,Magento_Analytics
+"Sorry, there has been an error processing your request. Please try again later.","Üzgünüm, İsteğiniz işlenirken bir hata oluştu. Lütfen daha sonra yeniden deneyin.",module,Magento_Analytics
+"Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.","Üzgünüz, Magento Analytics kayıt İsteğiniz işlenirken bir hata oluştu. Lütfen daha sonra yeniden deneyin.",module,Magento_Analytics
 "Error occurred during postponement notification","Error occurred during postponement notification",module,Magento_Analytics
-"Command was not found.","Command was not found.",module,Magento_Analytics
+"Command was not found.","Komut bulunamadı.",module,Magento_Analytics
 "There was an error save new configuration value.","There was an error save new configuration value.",module,Magento_Analytics
 "Please select a vertical.","Please select a vertical.",module,Magento_Analytics
-"--Please Select--","--Please Select--",module,Magento_Analytics
-"Cannot find predefined integration user!","Cannot find predefined integration user!",module,Magento_Analytics
+"--Please Select--","--Lütfen Seçiniz--",module,Magento_Analytics
+"Cannot find predefined integration user!","Önceden tanımlanmış Tümleştirme kullanıcısı bulamıyorum!",module,Magento_Analytics
 TestMessage,TestMessage,module,Magento_Analytics
-"Error message","Error message",module,Magento_Analytics
-"Apps and Games","Apps and Games",module,Magento_Analytics
-"Athletic/Sporting Goods","Athletic/Sporting Goods",module,Magento_Analytics
-"Art and Design","Art and Design",module,Magento_Analytics
-"Free Tier","Free Tier",module,Magento_Analytics
-"An error occurred while subscription process.","An error occurred while subscription process.",module,Magento_Analytics
-Analytics,Analytics,module,Magento_Analytics
+"Error message","Hata mesajı",module,Magento_Analytics
+"Apps and Games","Uygulamalar ve Oyunlar",module,Magento_Analytics
+"Athletic/Sporting Goods","Spor/spor malzemeleri",module,Magento_Analytics
+"Art and Design","Sanat ve tasarım",module,Magento_Analytics
+"Free Tier","Ücretsiz Sınıf",module,Magento_Analytics
+"An error occurred while subscription process.","Abonelik işlemi sırasında hata oluştu.",module,Magento_Analytics
+Analytics,İstatistikler,module,Magento_Analytics
 API,API,module,Magento_Analytics
-Configuration,Configuration,module,Magento_Analytics
+Configuration,Yapılandırma,module,Magento_Analytics
 "BI Essential","BI Essential",module,Magento_Analytics
-"Basic Tier","Basic Tier",module,Magento_Analytics
+"Basic Tier","Temel görünüm",module,Magento_Analytics
 "BI Essentials","BI Essentials",module,Magento_Analytics
-General,General,module,Magento_Analytics
+General,Genel,module,Magento_Analytics
 "Send the system and transaction data to Magento Analytics service","Send the system and transaction data to Magento Analytics service",module,Magento_Analytics
-Vertical,Vertical,module,Magento_Analytics
+Vertical,Dikey,module,Magento_Analytics
 "Analytics Subscription","Analytics Subscription",module,Magento_Analytics
 "Subscription Confirmation","Subscription Confirmation",module,Magento_Analytics
-Cancel,Cancel,module,Magento_Analytics
-Ok,Ok,module,Magento_Analytics
+Cancel,İptal,module,Magento_Analytics
+Ok,Tamam,module,Magento_Analytics
 "I agree with sending my system
                             configuration and transaction data to Magento Analytics.","I agree with sending my system
                             configuration and transaction data to Magento Analytics.",module,Magento_Analytics
