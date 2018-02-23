@@ -2,7 +2,7 @@
 
 This is FREE **Magento 2 Turkish Language Pack** directory by Mageplaza team. The topic is based on Magento 2 Translation Project from Crowdin with the contributed transalation data. Especially, right on this post, Mageplaza give you the available link including "Download .zip" and "Contribute" button, you will be directd to the correct site quickly without wasting time seeking.
 
-In addition, Mageplaza also brings you the in-depth directions to install this package successfully. The whole guides will be shown as clearly as possible, that is easy for you to follow. Please pay attention at all to turn your site performance into Turkish.
+In addition, Mageplaza also brings you the in-depth directions to install this package successfully. The whole guides will be shown as clearly as possible, that is easy for you to follow. Please pay attention to all to turn your site performance into Turkish.
 
 Read more [Magento 2 Turkish Language Pack](https://www.mageplaza.com/magento-2-turkish-language-pack.html)
 
@@ -138,6 +138,7 @@ Contribute to this language at https://crowdin.com/project/magento-2/tr
 - Magento v2.0.13
 - Magento v2.0.14
 - Magento v2.0.15
+- Magento v2.0.16
 - Magento v2.1.0
 - Magento v2.1.1
 - Magento v2.1.2
@@ -147,6 +148,10 @@ Contribute to this language at https://crowdin.com/project/magento-2/tr
 - Magento v2.1.6
 - Magento v2.1.7
 - Magento v2.1.8
+- Magento v2.1.10
+- Magento v2.2.0
+- Magento v2.2.1
+- Magento v2.2.2
 
 
 
