@@ -1042,15 +1042,15 @@ avsPostalCodeResponseCode,avsPostalCodeResponseCode,module,Magento_Braintree
 avsStreetAddressResponseCode,avsStreetAddressResponseCode,module,Magento_Braintree
 cvvResponseCode,cvvResponseCode,module,Magento_Braintree
 processorAuthorizationCode,processorAuthorizationCode,module,Magento_Braintree
-processorResponseCode,işlemciCevapKodu,module,Magento_Braintree
+processorResponseCode,processorResponseCode,module,Magento_Braintree
 processorResponseText,processorResponseText,module,Magento_Braintree
-braintree,"beyin ağacı",module,Magento_Braintree
-liabilityShifted,yükümlülükDeğişti,module,Magento_Braintree
-liabilityShiftPossible,yükümlülükDeğişimiMümkün,module,Magento_Braintree
+braintree,braintree,module,Magento_Braintree
+liabilityShifted,liabilityShifted,module,Magento_Braintree
+liabilityShiftPossible,liabilityShiftPossible,module,Magento_Braintree
 riskDataId,riskDataId,module,Magento_Braintree
 riskDataDecision,riskDataDecision,module,Magento_Braintree
 paymentId,paymentId,module,Magento_Braintree
-payerEmail,ödeyenEpostası,module,Magento_Braintree
+payerEmail,payerEmail,module,Magento_Braintree
 sale,satış,module,Magento_Braintree
 credit,kredi,module,Magento_Braintree
 authorization_expired,authorization_expired,module,Magento_Braintree
@@ -1058,21 +1058,21 @@ authorizing,yetkilendiriliyor,module,Magento_Braintree
 authorized,yetkilendirildi,module,Magento_Braintree
 gateway_rejected,gateway_rejected,module,Magento_Braintree
 failed,başarısız,module,Magento_Braintree
-processor_declined,işlemci_reddedildi,module,Magento_Braintree
+processor_declined,processor_declined,module,Magento_Braintree
 settled,yerleşik,module,Magento_Braintree
 settling,yerleşme,module,Magento_Braintree
 submitted_for_settlement,submitted_for_settlement,module,Magento_Braintree
 voided,geçersiz,module,Magento_Braintree
 unrecognized,tanımlanamayan,module,Magento_Braintree
-settlement_declined,yerleşme_reddedildi,module,Magento_Braintree
-settlement_pending,yerleşme_bekleniyor,module,Magento_Braintree
-settlement_confirmed,yerleşme_onaylandı,module,Magento_Braintree
-paypal_account,paypal_hesabı,module,Magento_Braintree
+settlement_declined,settlement_declined,module,Magento_Braintree
+settlement_pending,settlement_pending,module,Magento_Braintree
+settlement_confirmed,settlement_confirmed,module,Magento_Braintree
+paypal_account,paypal_account,module,Magento_Braintree
 coinbase_account,coinbase_account,module,Magento_Braintree
 europe_bank_accout,europe_bank_accout,module,Magento_Braintree
 credit_card,kredi_kartı,module,Magento_Braintree
-apple_pay_card,apple_ödeme_kartı,module,Magento_Braintree
-android_pay_card,android_ödeme_kartı,module,Magento_Braintree
+apple_pay_card,apple_pay_card,module,Magento_Braintree
+android_pay_card,android_pay_card,module,Magento_Braintree
 Country,Ülke,module,Magento_Braintree
 "Allowed Credit Card Types","Kullanılabilen Kart Tipleri",module,Magento_Braintree
 "Add Rule","Kural ekle",module,Magento_Braintree
@@ -2670,7 +2670,7 @@ Websites,Websiteleri,module,Magento_CatalogStaging
 "Product URL Suffix","Ürün URL Soneki",module,Magento_CatalogUrlRewrite
 "Use Categories Path for Product URLs","Kategori yolunu ürün Url lerinde kullan",module,Magento_CatalogUrlRewrite
 "Create Permanent Redirect for URLs if URL Key Changed","URL anahtarı değişince, URL ler için kalıcı yönlendirme oluştur",module,Magento_CatalogUrlRewrite
-"Catalog Url Rewrite Staging","Catalog Url Rewrite Staging",module,Magento_CatalogUrlRewriteStaging
+"Catalog Url Rewrite Staging","Katalog Url Yeniden Yazma",module,Magento_CatalogUrlRewriteStaging
 "Conditions Combination","Koşullar listesi",module,Magento_CatalogWidget
 "Product Attribute","Ürün Özellikleri",module,Magento_CatalogWidget
 SKU,SKU,module,Magento_CatalogWidget
@@ -3066,8 +3066,8 @@ Enable,"Aktif et",module,Magento_Cms
 "Custom design to","Özel tasarım",module,Magento_Cms
 "Custom Theme","Özel Tema",module,Magento_Cms
 "Custom Layout","Özel Şablon",module,Magento_Cms
-cms_page,cms_page,module,Magento_CmsStaging
-cms_block,cms_block,module,Magento_CmsStaging
+cms_page,cms_sayfası,module,Magento_CmsStaging
+cms_block,cms_blok,module,Magento_CmsStaging
 "Magento\Cms\Api\Data\BlockInterface","Magento\Cms\Api\Data\BlockInterface",module,Magento_CmsStaging
 "Magento\Cms\Api\Data\PageInterface","Magento\Cms\Api\Data\PageInterface",module,Magento_CmsStaging
 "This block no longer exists.","Blok bulunamıyor.",module,Magento_CmsStaging
@@ -8339,6 +8339,7 @@ Action,Eylem,module,Magento_Reports
 Report,Rapor,module,Magento_Reports
 Description,Açıklama,module,Magento_Reports
 undefined,Tanımlanmamış,module,Magento_Reports
+"Item in Cart","Sepetteki Ürünler",module,Magento_Reports
 "Save Review","Yorumu Kaydet",module,Magento_Review
 "New Review","Yorum Ekle",module,Magento_Review
 "Review Details","Yorum Detayları",module,Magento_Review
@@ -12222,7 +12223,7 @@ No,Hayır,module,Magento_Usps
 Required,zorunlu,module,Magento_Usps
 "For some reason we can't retrieve tracking info right now.","Bazı sebeblerden dolayı şu anda izleme bilgisini alamıyoruz.",module,Magento_Usps
 "Sorry, something went wrong. Please try again or contact us and we'll try to help.","Üzgünüm, bir şeyler ters gitti. Lütfen tekrar deneyin veya bize ulaşın, yardım etmeye çalışacağız.",module,Magento_Usps
-track_summary,track_summary,module,Magento_Usps
+track_summary,"parça özeti",module,Magento_Usps
 "Empty response","Boş cevap",module,Magento_Usps
 "Service type does not match","Hizmet tipi eşleşmiyor",module,Magento_Usps
 Merchandise,Mal,module,Magento_Usps
@@ -12362,7 +12363,7 @@ Public,Kamu,module,Magento_VersionsCms
 "Delete Multiple Hierarchies","Birden çok hiyerarşileri siliniz",module,Magento_VersionsCms
 "Please correct the node data.","Lütfen düğüm verilerini düzeltin.",module,Magento_VersionsCms
 "CMS Node with id ""%1"" does not exist.","""%1"" kimliğine sahip CMS Düğümü mevcut değil.",module,Magento_VersionsCms
-"Tree Viewed","Tree Viewed",module,Magento_VersionsCms
+"Tree Viewed","Ağaç Görünümü",module,Magento_VersionsCms
 No,Hayır,module,Magento_VersionsCms
 Chapter,Kısım,module,Magento_VersionsCms
 Section,Bölüm,module,Magento_VersionsCms
@@ -12527,7 +12528,7 @@ Stock,Stok,module,Magento_VisualMerchandiser
 "Invalid XML: Detected use of illegal DOCTYPE","Geçersiz XML: Yasadışı DOCTYPE kullanımını algılandı",module,Magento_Webapi
 message,mesaj,module,Magento_Webapi
 Message,Mesaj,module,Magento_Webapi
-"Soap fault reason.","Soap fault reason.",module,Magento_Webapi
+"Soap fault reason.","Soap hatası.",module,Magento_Webapi
 "Manage Customers","Müşterileri Yönet",module,Magento_Webapi
 "Create Customer","Müşteri Oluştur",module,Magento_Webapi
 "Edit Customer","Müşteriyi Düzenle",module,Magento_Webapi
@@ -12546,7 +12547,7 @@ Message,Mesaj,module,Magento_Webapi
 "Website Closed","Web Site Kapalı",module,Magento_WebsiteRestriction
 "Private Sales: Login Only","Özel Satışlar: Giriş Sadece",module,Magento_WebsiteRestriction
 "Private Sales: Login and Register","Özel Satışlar: Giriş ve Kayıt",module,Magento_WebsiteRestriction
-"To login form (302 Found)","To login form (302 Found)",module,Magento_WebsiteRestriction
+"To login form (302 Found)","Giriş formu (302 Found)",module,Magento_WebsiteRestriction
 "To landing page (302 Found)","To landing page (302 Found)",module,Magento_WebsiteRestriction
 "Access Restriction","Erişimi kısıtlama",module,Magento_WebsiteRestriction
 "Restriction Mode","Kısıtlama Modu",module,Magento_WebsiteRestriction
