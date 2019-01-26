@@ -91,8 +91,11 @@ Unzip the Turkish language pack to Magento 2 root folder. In this guide, we extr
 Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html/`
 
 ```
-unzip master.zip app/i18n/Mageplaza/tr_tr
+unzip master.zip app/i18n/Mageplaza/
 ```
+
+Rename folder `magento-2-turkish-language-pack` to `tr_tr`.
+
 
 You also can unzip locally and upload them to Magento 2 root folder.
 
@@ -112,7 +115,11 @@ To download and install Turkish pack manually, you have to access to your server
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `tr_TR.zip` into `app/i18n/mageplaza/tr_TR/tr_TR.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/tr_tr/tr_TR.csv`
+
+See this screenshot
+
+![Turkish pack](https://i.imgur.com/tS668yC.png)
 
 #### Step 2: Flush cache
 
