@@ -241,23 +241,23 @@ Edit,Düzenle,module,Magento_AdvancedSearch
 "Error while checking if topic is synchronous","Konu zaman uyumlu ise kontrol hatası",module,Magento_Amqp
 "Subscription status","Abonelik durumu",module,Magento_Analytics
 "Sorry, there has been an error processing your request. Please try again later.","Üzgünüm, İsteğiniz işlenirken bir hata oluştu. Lütfen daha sonra yeniden deneyin.",module,Magento_Analytics
-"The time value is using an unsupported format. Enter a supported format and try again.","The time value is using an unsupported format. Enter a supported format and try again.",module,Magento_Analytics
+"The time value is using an unsupported format. Enter a supported format and try again.","Zaman Değeri desteklenmeyen bir format kullanıyor. Desteklenen formatta bir değer girip tekrar deneyin.",module,Magento_Analytics
 "Cron settings can't be saved","Cron ayarları kaydedilemiyor",module,Magento_Analytics
 "There was an error save new configuration value.","Yeni ayarları kaydederken hata oluştu.",module,Magento_Analytics
-"Please select an industry.","Please select an industry.",module,Magento_Analytics
+"Please select an industry.","Lütfen endüstri seçin.",module,Magento_Analytics
 "--Please Select--","--Lütfen Seçiniz--",module,Magento_Analytics
 "Command was not found.","Komut bulunamadı.",module,Magento_Analytics
 "The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","The data is invalid. Enter the data as a string or data that can be converted into a string and try again.",module,Magento_Analytics
 "The data is invalid. Enter the data as a string and try again.","The data is invalid. Enter the data as a string and try again.",module,Magento_Analytics
 "The data is invalid. Use a valid cipher method and try again.","The data is invalid. Use a valid cipher method and try again.",module,Magento_Analytics
-"Enter the encryption key and try again.","Enter the encryption key and try again.",module,Magento_Analytics
+"Enter the encryption key and try again.","Şifreleme anahtarını girin ve tekrar deneyin.",module,Magento_Analytics
 "The ""%1"" source doesn't exist.","The ""%1"" source doesn't exist.",module,Magento_Analytics
 "These arguments can't be empty ""%1""","Bu parametreler boş olamaz ''%1''",module,Magento_Analytics
 "Cannot find predefined integration user!","Önceden tanımlanmış Tümleştirme kullanıcısı bulamıyorum!",module,Magento_Analytics
 "File is not ready yet.","Dosya henüz hazır değil.",module,Magento_Analytics
 "Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Temel URL'niz değiştirildi ve raporlarınız güncelleniyor. Bu değişiklik işleme konulduktan sonra Gelişmiş Raporlama kullanılabilir olacaktır. Lütfen daha sonra tekrar deneyiniz.",module,Magento_Analytics
 "Failed to synchronize data to the Magento Business Intelligence service.","Magento Business Intelligence servisine veri senkronizasyonu başarısız oldu.",module,Magento_Analytics
-"Retry Synchronization","Retry Synchronization",module,Magento_Analytics
+"Retry Synchronization","Senkronizasyonu Yeniden Dene",module,Magento_Analytics
 TestMessage,TestMessage,module,Magento_Analytics
 "Apps and Games","Uygulamalar ve Oyunlar",module,Magento_Analytics
 "Athletic/Sporting Goods","Spor/spor malzemeleri",module,Magento_Analytics
@@ -1711,7 +1711,7 @@ Categories,Kategoriler,module,Magento_Catalog
 "Category is not available for requested store.","İstenen mağaza için kategori mevcut değil.",module,Magento_Catalog
 "There was a category move error.","Bir kategori taşıma hatası vardı.",module,Magento_Catalog
 "You moved the category.","Kategori taşındı.",module,Magento_Catalog
-"The ""%1"" attribute is required. Enter and try again.","The ""%1"" attribute is required. Enter and try again.",module,Magento_Catalog
+"The ""%1"" attribute is required. Enter and try again.","""%1"" değeri gereklidir. Girin ve yeniden deneyin.",module,Magento_Catalog
 "You saved the category.","Kategori kaydedildi.",module,Magento_Catalog
 "Something went wrong while saving the category.","Kategoriyi kaydetme işlemi sırasında bir şeyler ters gitti.",module,Magento_Catalog
 "Please select products for attributes update.","Lütfen ürünler için öznitelikleri güncelleştirme seçin.",module,Magento_Catalog
@@ -1719,7 +1719,7 @@ Categories,Kategoriler,module,Magento_Catalog
 "A total of %1 record(s) were updated.","%1 kayıt(lar) toplam güncelleştirildi.",module,Magento_Catalog
 "Something went wrong while updating the product(s) attributes.","Ürün (ler) öznitelikleri güncelleştirilirken bir şeyler ters gitti.",module,Magento_Catalog
 "Unable to add attribute","Özellik eklenemiyor",module,Magento_Catalog
-"Attributes were missing and must be specified.","Attributes were missing and must be specified.",module,Magento_Catalog
+"Attributes were missing and must be specified.","Özellikler eksik ve belirtilmesi gerekir.",module,Magento_Catalog
 Catalog,Katalog,module,Magento_Catalog
 "Manage Product Attributes","Ürün Özelliklerini Yönet",module,Magento_Catalog
 "We can't delete the attribute.","Öznitelik silinemiyor.",module,Magento_Catalog
