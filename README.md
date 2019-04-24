@@ -119,11 +119,13 @@ To download and install Turkish pack manually, you have to access to your server
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/tr_tr/tr_TR.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/tr_tr/`
 
-See this screenshot
+See this screenshot:
 
 ![Turkish pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
+
+This language pack code is: **tr_tr**
 
 #### Step 2: Flush cache
 
