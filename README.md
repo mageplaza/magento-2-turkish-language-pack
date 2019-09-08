@@ -6,7 +6,7 @@ In addition, Mageplaza also brings you the in-depth directions to install this p
 
 Read more [Magento 2 Turkish Language Pack](https://www.mageplaza.com/magento-2-turkish-language-pack.html)
 
-![Mageplaza Turkish language pack](https://i.imgur.com/qjWPj1W.png)
+![Mageplaza Turkish language pack](https://cdn3.mageplaza.com/media/general/qjWPj1W.png)
 
 ## Overview
 
