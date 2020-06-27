@@ -22,8 +22,6 @@ Read more [Magento 2 Turkish Language Pack](https://www.mageplaza.com/magento-2-
 
 This is status of Turkish Language Pack, you can see how many percentage of this project has been done.
 
-![language pack](https://progress-bar.dev/87/?title=translated)
-
 It is not fully translated? Feel free to contribute:
 - [On Crowdin](https://crowdin.com/project/magento-2): It takes time to approve your contribution by Magento team.
 - [On Github](https://github.com/mageplaza/magento-2-turkish-language-pack/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
@@ -40,13 +38,24 @@ Install the Turkish language pack via composer is never easier.
 
 **Install Turkish pack**:
 
+With Social Proof (recommend):
+
+```
+composer require mageplaza/magento-2-turkish-language-pack:dev-master avada/module-proofo
+php bin/magento setup:static-content:deploy tr_TR
+php bin/magento indexer:reindex
+php bin/magento cache:clean
+php bin/magento cache:flush
+```
+
+Without Social Proof:
+
 ```
 composer require mageplaza/magento-2-turkish-language-pack:dev-master
 php bin/magento setup:static-content:deploy tr_TR
 php bin/magento indexer:reindex
 php bin/magento cache:clean
 php bin/magento cache:flush
-
 ```
 
 
