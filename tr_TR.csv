@@ -16403,16 +16403,16 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Maximum length of this field must be equal or less than %1 symbols.","Bu alan en fazla uzunluğu eşit veya %1 sembolleri daha az olmalıdır.",lib,web
 "Admin is a required field in the each row.","Yönetici, her satırda zorunlu bir alandır.",lib,web
 "Please enter a quantity greater than 0.","Please enter a quantity greater than 0.",lib,web
-"The fewest you may purchase is %1.","Satın alabileceğiniz en düşük tutar% 1'dir.",lib,web
-"The maximum you may purchase is %1.","The maximum you may purchase is %1.",lib,web
+"The fewest you may purchase is %1.","Satın alabileceğiniz en düşük %1.",lib,web
+"The maximum you may purchase is %1.","Satın alabileceğiniz maksimum %1.",lib,web
 "You can buy this product only in quantities of %1 at a time.","Bir seferde bu üründen sadece %1 miktarında satın alabilirsiniz.",lib,web
-"Forbidden extensions has been used. Avoid usage of ","Forbidden extensions has been used. Avoid usage of ",lib,web
-"No marginal white space please","No marginal white space please",lib,web
+"Forbidden extensions has been used. Avoid usage of ","Yasaklanmış eklentiler kullanılmış. Eklentileri kullanmaktan kaçının ",lib,web
+"No marginal white space please","Lütfen başta ve sonda boşluk kullanmayınız",lib,web
 "Please enter 6 or more characters. Leading or trailing spaces will be ignored.","Lütfen en az 6 karakter giriniz. Baştaki ve sondaki boşluklar görmezden gelinecektir.",lib,web
-"Enter valid SKU key","Enter valid SKU key",lib,web
-"Swatch and Admin are the required fields in the each row.","Swatch and Admin are the required fields in the each row.",lib,web
+"Enter valid SKU key","Geçerli bir SKU anahtarı girin",lib,web
+"Swatch and Admin are the required fields in the each row.","Swatch ve Admin alanları her satırda gerekli alanlardır.",lib,web
 "Insert Variable","Değişen Ekle",lib,web
 "Insert Widget","Widget Ekle",lib,web
-"The widget %1 is no longer available. Select a different widget.","The widget %1 is no longer available. Select a different widget.",lib,web
-"First character must be letter.","First character must be letter.",lib,web
-"The password can't be the same as the email address. Create a new password and try again.","The password can't be the same as the email address. Create a new password and try again.",lib,web
+"The widget %1 is no longer available. Select a different widget.","%1 adlı aracın verisine ulaşılamıyor. Lütfen başka bir araç seçiniz.",lib,web
+"First character must be letter.","İlk karakter harf olmalı.",lib,web
+"The password can't be the same as the email address. Create a new password and try again.","Şifre, e-mail adresiyle aynı olamaz. Yeni bir şifre oluşturup tekrar deneyiniz.",lib,web
