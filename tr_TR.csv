@@ -267,7 +267,7 @@
 "Message has been rejected: %1","İleti reddedildi: %1",module,Magento_Amqp
 "Error while checking if topic is synchronous","Konu zaman uyumlu ise kontrol hatası",module,Magento_Amqp
 "Subscription status","Abonelik durumu",module,Magento_Analytics
-"Sorry, there has been an error processing your request. Please try again later.","Üzgünüm, İsteğiniz işlenirken bir hata oluştu. Lütfen daha sonra yeniden deneyin.",module,Magento_Analytics
+"Sorry, there has been an error processing your request. Please try again later.","Üzgünüz, İsteğiniz işlenirken bir hata oluştu. Lütfen daha sonra yeniden deneyin.",module,Magento_Analytics
 "Time value has an unsupported format","Saat değeri desteklenmeyen bir biçime sahiptir",module,Magento_Analytics
 "Cron settings can't be saved","Cron ayarları kaydedilemiyor",module,Magento_Analytics
 "There was an error save new configuration value.","Yeni ayarları kaydederken hata oluştu.",module,Magento_Analytics
@@ -721,7 +721,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Admin session lifetime must be greater than or equal to 60 seconds","Yönetici oturumu kullanım süresi 60 saniye veya daha uzun olmalı",module,Magento_Backend
 "Order","Sipariş",module,Magento_Backend
 "Order #%1","Sipariş #%1",module,Magento_Backend
-"Sorry, you need permissions to view this content.","Üzgünüm, bu içeriği görüntülemek için izniniz yok.",module,Magento_Backend
+"Sorry, you need permissions to view this content.","Üzgünüz, bu içeriği görüntülemek için izniniz yok.",module,Magento_Backend
 "Next steps","Sonraki adımlar",module,Magento_Backend
 "If you think this is an error, try signing out and signing in again.","Bunun bir hata olduğunu düşünüyorsanız, oturumu kapatıp yeniden açmayı deneyin.",module,Magento_Backend
 "Contact a system administrator or store owner to gain permissions.","Görüntüleme izni almak için sistem yöneticisi veya mağaza sahibi ile iletişime geçin.",module,Magento_Backend
@@ -5340,7 +5340,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Additional addresses","Ek adresler",module,Magento_Customer
 "State","Eyalet",module,Magento_Customer
 "Actions","İşlemler",module,Magento_Customer
-"Sorry, there has been an error processing your request. Please try again later.","Üzgünüm, İsteğiniz işlenirken bir hata oluştu. Lütfen daha sonra yeniden deneyin.",module,Magento_Customer
+"Sorry, there has been an error processing your request. Please try again later.","Üzgünüz, İsteğiniz işlenirken bir hata oluştu. Lütfen daha sonra yeniden deneyin.",module,Magento_Customer
 "Reset password","Şifreyi Sıfırla",module,Magento_Customer
 "Invalidate tokens","Anahtarları geçersiz kıl",module,Magento_Customer
 "Update Address","Adresi Güncelle",module,Magento_Customer
@@ -8983,7 +8983,7 @@ href=""%1"">here</a>.",module,Magento_NewRelicReporting
 "This is an invalid subscription confirmation code.","Bu geçersiz bir abonelik onaylama kodudur.",module,Magento_Newsletter
 "This is an invalid subscription ID.","Bu geçersiz bir abonelik kimliğidir.",module,Magento_Newsletter
 "This email address is already assigned to another user.","Bu e-posta adresi başka bir kullanıcı ile ilişkilendirilmiş.",module,Magento_Newsletter
-"Sorry, but the administrator denied subscription for guests. Please <a href=""%1"">register</a>.","Üzgünüm, ama yönetici misafir aboneliğini reddetti. Lütfen <a href=""%1"">kayıt yap</a>.",module,Magento_Newsletter
+"Sorry, but the administrator denied subscription for guests. Please <a href=""%1"">register</a>.","Üzgünüz, ama yönetici misafir aboneliğini reddetti. Lütfen <a href=""%1"">kayıt yap</a>.",module,Magento_Newsletter
 "Please enter a valid email address.","Lütfen geçerli bir e-mail adresi girin.",module,Magento_Newsletter
 "This email address is already subscribed.","Bu e-posta adresi zaten abone oldu.",module,Magento_Newsletter
 "The confirmation request has been sent.","Onay talebi gönderildi.",module,Magento_Newsletter
@@ -9342,8 +9342,8 @@ If field is empty default value localhost will be saved.",",' Ile ayrılmış IP
 "Something went wrong while processing your order.","Siparişinizi işleme alınırken bir hata oluştu.",module,Magento_Paypal
 "PayPal gateway has rejected request. %1","PayPal ağ geçidi isteği reddedildi. %1",module,Magento_Paypal
 "The PayPal gateway rejected the request. %1","PayPal ağ geçidi isteği reddetti. %1",module,Magento_Paypal
-"I'm sorry - but we were not able to process your payment. Please try another payment method or contact us so we can assist you.","Üzgünüm - ama ödemenizi işleme koyamadık. Size yardımcı olabilmemiz için lütfen başka bir ödeme yöntemi deneyin veya bizimle iletişime geçin.",module,Magento_Paypal
-"I'm sorry - but we are not able to complete your transaction. Please contact us so we can assist you.","Üzgünüm - ama işleminizi tamamlayamıyoruz. Size yardımcı olabilmemiz için lütfen bizimle iletişime geçin.",module,Magento_Paypal
+"I'm sorry - but we were not able to process your payment. Please try another payment method or contact us so we can assist you.","Üzgünüz - ama ödemenizi işleme koyamadık. Size yardımcı olabilmemiz için lütfen başka bir ödeme yöntemi deneyin veya bizimle iletişime geçin.",module,Magento_Paypal
+"I'm sorry - but we are not able to complete your transaction. Please contact us so we can assist you.","Üzgünüz - ama işleminizi tamamlayamıyoruz. Size yardımcı olabilmemiz için lütfen bizimle iletişime geçin.",module,Magento_Paypal
 "A match of the Shipping Address City, State, and Postal Code failed.","Gönderim Adresi Şehir, Eyalet ve Posta Kodu eşleşmesi başarısız oldu.",module,Magento_Paypal
 "We can't place the order.","Siparişi veremiyoruz.",module,Magento_Paypal
 "The payment method code is not set.","Ödeme yöntemi kodu ayarlanmadı.",module,Magento_Paypal
@@ -15092,7 +15092,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Commercial","Ticari",module,Magento_Ups
 "Pounds","Pound",module,Magento_Ups
 "Kilograms","Kilogram",module,Magento_Ups
-"Sorry, something went wrong. Please try again or contact us and we'll try to help.","Üzgünüm, bir şeyler ters gitti. Lütfen tekrar deneyin veya bize ulaşın, yardım etmeye çalışacağız.",module,Magento_Ups
+"Sorry, something went wrong. Please try again or contact us and we'll try to help.","Üzgünüz, bir şeyler ters gitti. Lütfen tekrar deneyin veya bize ulaşın, yardım etmeye çalışacağız.",module,Magento_Ups
 "We can't convert a rate from ""%1-%2"".","Bir orandan dönüştürülemiyoruz ""%1-%2"".",module,Magento_Ups
 "Cannot retrieve shipping rates","Teslimat ücreti getirilemedi",module,Magento_Ups
 "status","durum",module,Magento_Ups
@@ -15298,7 +15298,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "A user with the same user name or email already exists.","Aynı kullanıcı adı veya e-postayla zaten bir kullanıcı var.",module,Magento_User
 "Recommended","Tavsiye Edilem",module,Magento_User
 "Forced","Zorunlu",module,Magento_User
-"Sorry, but this password has already been used. Please create another.","Üzgünüm, ama bu şifre zaten kullanılmış. Lütfen başka bir tane oluşturun.",module,Magento_User
+"Sorry, but this password has already been used. Please create another.","Üzgünüz, ama bu şifre zaten kullanılmış. Lütfen başka bir tane oluşturun.",module,Magento_User
 "email","e-posta",module,Magento_User
 "password","şifre",module,Magento_User
 "username","kullanıcı adı",module,Magento_User
@@ -15469,7 +15469,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Not Required","Zorunlu Değil",module,Magento_Usps
 "Required","zorunlu",module,Magento_Usps
 "For some reason we can't retrieve tracking info right now.","Belirlenemeyen bir nedenle şu anda izleme bilgisi alınamıyor.",module,Magento_Usps
-"Sorry, something went wrong. Please try again or contact us and we'll try to help.","Üzgünüm, bir şeyler ters gitti. Lütfen tekrar deneyin veya bize ulaşın, yardım etmeye çalışacağız.",module,Magento_Usps
+"Sorry, something went wrong. Please try again or contact us and we'll try to help.","Üzgünüz, bir şeyler ters gitti. Lütfen tekrar deneyin veya bize ulaşın, yardım etmeye çalışacağız.",module,Magento_Usps
 "track_summary","parça özeti",module,Magento_Usps
 "Empty response","Boş cevap",module,Magento_Usps
 "Service type does not match","Hizmet tipi eşleşmiyor",module,Magento_Usps
@@ -16146,15 +16146,15 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Product Details and Comment","Ürün Detayları ve Yorum",module,Magento_Wishlist
 "Add To Wishlist","Takip Listesine Ekle",module,Magento_Wishlist
 "Are you sure you want to remove this product from your Wish List?","Bu ürünü istek listenizden çıkarmak istediğinize emin misiniz?",module,Magento_Wishlist
-"%1 has been removed from your Wish List.","%1 has been removed from your Wish List.",module,Magento_Wishlist
+"%1 has been removed from your Wish List.","%1 İstek Listenizden kaldırıldı.",module,Magento_Wishlist
 "10 by default. Max - 10000","Varsayılan 10. Maksimum - 10000",module,Magento_Wishlist
 "255 by default","Varsayılan 255",module,Magento_Wishlist
-"The Wish List item can't load at this time. Please try again later.","The Wish List item can't load at this time. Please try again later.",module,Magento_Wishlist
-"The cart item doesn't exist.","The cart item doesn't exist.",module,Magento_Wishlist
+"The Wish List item can't load at this time. Please try again later.","İstek Listesi öğesi şu anda yüklenemiyor. Lütfen daha sonra tekrar deneyiniz.",module,Magento_Wishlist
+"The cart item doesn't exist.","Kart öğesi yok.",module,Magento_Wishlist
 "You must login or register to add items to your wishlist.","İstek listenize ürün ekleyebilmek için giriş yapmak veya kayıt olmak zorundasınız.",module,Magento_Wishlist
-"Show in Sidebar","Show in Sidebar",module,Magento_Wishlist
-"Missing key ""model"" in Wishlist Item value data","Missing key ""model"" in Wishlist Item value data",module,Magento_WishlistGraphQl
-"Missing key ""model"" in Wishlist value data","Missing key ""model"" in Wishlist value data",module,Magento_WishlistGraphQl
+"Show in Sidebar","Kenar çubuğunda göster",module,Magento_Wishlist
+"Missing key ""model"" in Wishlist Item value data","İstek listesindeki parça değer verisinde ""model"" anahtarı eksik",module,Magento_WishlistGraphQl
+"Missing key ""model"" in Wishlist value data","İstek listesindeki değer verisinde ""model"" anahtarı eksik",module,Magento_WishlistGraphQl
 "Credit card type","Kredi kartı türü",module,Magento_Worldpay
 "CVV result","CVV sonucu",module,Magento_Worldpay
 "Postcode AVS check","Posta kodu AVS kontrolü",module,Magento_Worldpay
@@ -16393,8 +16393,8 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Please enter a value between {0} and {1}.","Lütfen {0} ile {1} arasında bir değer girin.",lib,web
 "Please enter a value less than or equal to {0}.","Lütfen {0} değerinden küçük veya ona eşit bir değer girin.",lib,web
 "Please enter a value greater than or equal to {0}.","Lütfen {0} değerinden büyük veya ona eşit bir değer girin.",lib,web
-"Please specify the quantity of product(s).","Lütfen ürün (ler) miktarını belirtin.",lib,web
-"Please enter a date between %min and %max.","Lütfen % min ve max % arasında bir tarih girin.",lib,web
+"Please specify the quantity of product(s).","Lütfen ürün(ler) miktarını belirtin.",lib,web
+"Please enter a date between %min and %max.","Lütfen %min ve %max arasında bir tarih girin.",lib,web
 "Please enter a valid full date.","Lütfen geçerli bir tam tarih girin.",lib,web
 "Please enter a valid month (1-12).","Lütfen geçerli bir ay girin (1-12).",lib,web
 "Please enter a valid year (1900-%1).","Lütfen geçerli bir yıl (1900-%1) girin.",lib,web
