@@ -1,8 +1,6 @@
 ## Magento 2 Turkish Language Pack
 
-This is FREE **Magento 2 Turkish Language Pack** directory by Mageplaza team. The topic is based on Magento 2 Translation Project from Crowdin with the contributed transalation data. Especially, right on this post, Mageplaza give you the available link including "Download .zip" and "Contribute" button, you will be directd to the correct site quickly without wasting time seeking.
-
-In addition, Mageplaza also brings you the in-depth directions to install this package successfully. The whole guides will be shown as clearly as possible, that is easy for you to follow. Please pay attention to all to turn your site performance into Turkish.
+This is FREE **Magento 2 Turkish Language Pack** directory by Mageplaza team. The topic is based on Magento 2 Translation Project from Crowdin with the contributed transalation data. Especially, right on this post, Mageplaza give you the available link including Download .zip and Contribute button, you will be directd to the correct site quickly without wasting time seeking.
 
 Read more [Magento 2 Turkish Language Pack](https://www.mageplaza.com/magento-2-turkish-language-pack.html)
 
@@ -29,7 +27,7 @@ It is not fully translated? Feel free to contribute:
 - [On Github](https://github.com/mageplaza/magento-2-turkish-language-pack/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
 
 
-Find other [language packs here](https://www.mageplaza.com/kb/magento-2-language-pack/)
+Find other [language packs here](https://www.mageplaza.com/magento-2-extensions/language-packs.html)
 
 ## 2. How to Install Turkish Language Pack
 
@@ -40,17 +38,17 @@ Install the Turkish language pack via composer is never easier.
 
 **Install Turkish pack**:
 
-With Social Proof (recommend):
+With Marketing Automation (recommend):
 
 ```
-composer require mageplaza/magento-2-turkish-language-pack:dev-master avada/module-proofo
+composer require mageplaza/magento-2-turkish-language-pack:dev-master mageplaza/module-smtp 
 php bin/magento setup:static-content:deploy tr_TR
 php bin/magento indexer:reindex
 php bin/magento cache:clean
 php bin/magento cache:flush
 ```
 
-Without Social Proof:
+Without Marketing Automation:
 
 ```
 composer require mageplaza/magento-2-turkish-language-pack:dev-master
@@ -166,6 +164,7 @@ It supports all Magento 2 versions include [Magento 2 open-source](https://www.m
 - Magento v2.1.x
 - Magento v2.2.x
 - Magento v2.3.x
+- Magento v2.4.x
 
 
 
